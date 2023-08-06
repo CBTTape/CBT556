@@ -1,0 +1,6 @@
+2023-08-06 05:11:57.359920 - Initialized conversion of CBT556
+2023-08-06 05:11:57.390672 - Received CBT.V505.FILE556.PDS from FILE556.XMI 
+2023-08-06 05:11:57.392651 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE556.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:11:57.393583 - Found $SCKTDOC.txt (text/plain) in CBT.V505.FILE556.PDS, moved to PDS/$SCKTDOC
+2023-08-06 05:11:57.394453 - Found @FILE556.txt (text/plain) in CBT.V505.FILE556.PDS, moved to PDS/@FILE556
+2023-08-06 05:11:57.395367 - Found SCKTINTF.rexx (text/plain) in CBT.V505.FILE556.PDS, moved to PDS/SCKTINTF
